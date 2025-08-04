@@ -37,7 +37,7 @@ The following training sets are included in this repository, every entry is grou
 	- (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub>
 	- PEA<sub>2</sub>PbI<sub>4</sub>
 	- BA<sub>2</sub>PbI<sub>4</sub>
-- Pols *et al.*, *arXiv.XXXX.XXXXX*, 1–8 (2025), DOI: [`arXiv:2508.00158`](https://arxiv.org/abs/2508.00158).
+- Pols *et al.*, *arXiv.2508.00158*, 1–8 (2025), DOI: [`arXiv:2508.00158`](https://arxiv.org/abs/2508.00158).
 	- (<i>S</i>-MBA)<sub>2</sub>SnI<sub>4</sub>
 	- (<i>S</i>-MBA)<sub>2</sub>Sn<sub>0.5</sub>Pb<sub>0.5</sub>I<sub>4</sub>
 	- (<i>S</i>-MBA)<sub>2</sub>M</sub>I<sub>4</sub> (combined model)
