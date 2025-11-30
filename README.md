@@ -3,7 +3,7 @@
 A collection of machine-learning force field (MLFF) training sets for two-dimensional (2D) halide perovskites.  Among others, these training sets were used to train models to:
 1. Explore the structural chirality of 2D halide perovskites at <i>T</i> = 0K and at finite temperatures. [DOI: [`10.1021/acs.jpclett.4c01629`](https://doi.org/10.1021/acs.jpclett.4c01629)]
 2. Discover chiral phonons in chiral 2D halide perovskites [DOI: [`10.1021/acs.nanolett.5c01708`](https://doi.org/10.1021/acs.nanolett.5c01708)]
-3. Investigate the effect of metal cations on the structural and dynamic chirality of 2D halide perovskites [DOI: [`arXiv:2508.00158`](https://arxiv.org/abs/2508.00158)]
+3. Investigate the effect of metal cations on the structural and dynamic chirality of 2D halide perovskites [DOI: [`10.1103/mxyl-tqjb`](https://doi.org/10.1103/mxyl-tqjb)]
 
 ## Computational settings
 
@@ -37,7 +37,7 @@ The following training sets are included in this repository, every entry is grou
 	- (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub>
 	- PEA<sub>2</sub>PbI<sub>4</sub>
 	- BA<sub>2</sub>PbI<sub>4</sub>
-- Pols *et al.*, *arXiv.2508.00158*, 1–8 (2025), DOI: [`arXiv:2508.00158`](https://arxiv.org/abs/2508.00158).
+- Pols *et al.*, *Phys. Rev. Mater.*, 9, 113601 (2025), DOI: [`10.1103/mxyl-tqjb`](https://doi.org/10.1103/mxyl-tqjb).
 	- (<i>S</i>-MBA)<sub>2</sub>SnI<sub>4</sub>
 	- (<i>S</i>-MBA)<sub>2</sub>Sn<sub>0.5</sub>Pb<sub>0.5</sub>I<sub>4</sub>
 	- (<i>S</i>-MBA)<sub>2</sub>M</sub>I<sub>4</sub> (combined model)
